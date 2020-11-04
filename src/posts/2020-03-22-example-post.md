@@ -1,6 +1,6 @@
 ---
 title: Crisis information example post
-date: 2020-03-22T14:00
+date: 2020-11-04T15:48:47.596Z
 ---
 
 This is an example of how to publish critical information as posts on this website.
